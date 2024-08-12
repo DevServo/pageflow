@@ -271,9 +271,10 @@ section {
   word-spacing: 1.2;
 }
 
-.reseach-stats {
+.reseach-stats, .researcher {
  
-  background-color: #000000;
+  color: red;
+  padding: .25em;
 }
 
 /* Sevices Styles */
